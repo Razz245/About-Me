@@ -1,6 +1,6 @@
 ### Hi there, I'm [Rashin Rabindra](https://https://github.com/Razz245) 👋
 
-I completed my MSc In Physics from [NU], Australia. Apart from that, I am a seasonal ML developer who loves writing articles (on Machine Learning, Data Science, Productivity) and contributing to open source.
+I completed my MSc In Physics from [NU]. Apart from that, I am a seasonal ML developer who loves writing articles (on Machine Learning, Data Science, Productivity) and contributing to open source.
 
 **My Research Interest**:
 - Outlying Aspect Mining

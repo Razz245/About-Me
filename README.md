@@ -65,6 +65,8 @@ I completed my MSc In Physics from [NU]. Apart from that, I am a seasonal ML dev
 </p>
 
 | ------------- | ------------- |
+Thanks
+https://razz245.github.io/About-Me/
 
 
 
